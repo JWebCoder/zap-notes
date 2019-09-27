@@ -1,0 +1,24 @@
+{
+  "name": "zap-notes",
+  "version": "0.0.1",
+  "description": "encrypted git based notes app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JWebCoder/zap-notes.git"
+  },
+  "keywords": [
+    "git",
+    "notes",
+    "encrypted"
+  ],
+  "author": "João Moura",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JWebCoder/zap-notes/issues"
+  },
+  "homepage": "https://github.com/JWebCoder/zap-notes#readme"
+}
