@@ -2,7 +2,7 @@
   "name": "zap-notes",
   "version": "0.0.1",
   "description": "encrypted git based notes app",
-  "main": "index.js",
+  "main": "dist/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/JWebCoder/zap-notes/issues"
   },
-  "homepage": "https://github.com/JWebCoder/zap-notes#readme"
+  "homepage": "https://github.com/JWebCoder/zap-notes#readme",
+  "devDependencies": {
+    "create-react-app": "^3.1.2"
+  }
 }
